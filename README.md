@@ -14,5 +14,3 @@ I'm also executing a python script to call the openai API. Some improvements can
 If you would like to try it out you will need an OpenAI account. In the python script you need to provide your organization id as well as the secret key. 
 
 Build a binary of the python script by executing pyinstaller reachatgpt.py --onefile you can also skip the pyinstaller step and call python directly from the lua script, but then you need to modify it a bit.
-
-[![IMAGE_ALT](https://img.youtube.com/vi/1kS-peS3RLw/default.jpg)](https://www.youtube.com/watch?v=1kS-peS3RLw&ab_channel=FilipConic)
