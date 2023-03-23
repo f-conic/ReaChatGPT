@@ -15,13 +15,4 @@ If you would like to try it out you will need an OpenAI account. In the python s
 
 Build a binary of the python script by executing pyinstaller reachatgpt.py --onefile you can also skip the pyinstaller step and call python directly from the lua script, but then you need to modify it a bit.
 
-
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=1kS-peS3RLw&ab_channel=FilipConic"
-    frameborder="0"
-    allow="encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/1kS-peS3RLw/default.jpg)](https://www.youtube.com/watch?v=1kS-peS3RLw&ab_channel=FilipConic)
